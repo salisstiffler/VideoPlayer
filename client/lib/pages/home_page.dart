@@ -19,6 +19,13 @@ class _HomePageState extends State<HomePage> {
     'xvideos': [const Color(0xFFD00010), const Color(0xFF151515)],
     'xnxx': [const Color(0xFF151515), const Color(0xFFD00010)], // Reverse of XVideos or unique
     '51cg1': [const Color(0xFF0056B3), const Color(0xFF001F3F)],
+    'jable': [const Color(0xFF007BFF), const Color(0xFF004085)],
+    'missav': [const Color(0xFFE91E63), const Color(0xFF880E4F)],
+    'youporn': [const Color(0xFFFF0066), const Color(0xFF000000)],
+    'redtube': [const Color(0xFFD00010), const Color(0xFF000000)],
+    'eporner': [const Color(0xFFAE0000), const Color(0xFF000000)],
+    'porncom': [const Color(0xFF222222), const Color(0xFF000000)],
+    'spankbang': [const Color(0xFFFF5500), const Color(0xFF000000)],
   };
 
   @override
